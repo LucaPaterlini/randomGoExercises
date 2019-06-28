@@ -1,0 +1,28 @@
+goos: linux
+goarch: amd64
+BenchmarkSquareOfSum  	2000000000	         0.38 ns/op
+BenchmarkSquareOfSum  	2000000000	         0.37 ns/op
+BenchmarkSquareOfSum  	2000000000	         0.37 ns/op
+BenchmarkSquareOfSum  	2000000000	         0.39 ns/op
+BenchmarkSquareOfSum  	2000000000	         0.42 ns/op
+BenchmarkSquareOfSum  	2000000000	         0.43 ns/op
+BenchmarkSquareOfSum  	2000000000	         0.51 ns/op
+BenchmarkSquareOfSum  	2000000000	         0.40 ns/op
+BenchmarkSumOfSquares 	2000000000	         0.37 ns/op
+BenchmarkSumOfSquares 	2000000000	         0.37 ns/op
+BenchmarkSumOfSquares 	2000000000	         0.37 ns/op
+BenchmarkSumOfSquares 	2000000000	         0.42 ns/op
+BenchmarkSumOfSquares 	2000000000	         0.39 ns/op
+BenchmarkSumOfSquares 	2000000000	         0.39 ns/op
+BenchmarkSumOfSquares 	2000000000	         0.38 ns/op
+BenchmarkSumOfSquares 	2000000000	         0.39 ns/op
+BenchmarkDifference   	2000000000	         0.38 ns/op
+BenchmarkDifference   	2000000000	         0.37 ns/op
+BenchmarkDifference   	2000000000	         0.37 ns/op
+BenchmarkDifference   	2000000000	         0.37 ns/op
+BenchmarkDifference   	2000000000	         0.37 ns/op
+BenchmarkDifference   	2000000000	         0.37 ns/op
+BenchmarkDifference   	2000000000	         0.37 ns/op
+BenchmarkDifference   	2000000000	         0.37 ns/op
+PASS
+ok  	_/home/pater92/Documents/STUDYFUN/go_study/refresh/go/difference-of-squares	19.616s
